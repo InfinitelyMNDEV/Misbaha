@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Misbaha</string>
+    <string name="settings">Settings</string>
+    <string name="system_settings">System settings</string>
+    <string name="custom_settings">Custom adhkar</string>
+    <string name="theme">Theme</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_system">System</string>
+    <string name="font_size">Font size</string>
+    <string name="font_small">Small</string>
+    <string name="font_default">Default</string>
+    <string name="font_large">Large</string>
+    <string name="font_extra_large">Extra large</string>
+    <string name="language">Language</string>
+    <string name="language_arabic">Arabic</string>
+    <string name="language_english">English</string>
+    <string name="add_zikr">Add zikr</string>
+    <string name="edit_zikr">Edit zikr</string>
+    <string name="reset_count">Reset count</string>
+    <string name="reset">Reset</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="zikr_text_label">Zikr text</string>
+    <string name="zikr_error_empty">Enter a zikr.</string>
+    <string name="zikr_error_duplicate">This zikr already exists.</string>
+    <string name="custom_empty">No custom adhkar yet.</string>
+    <string name="tasbeeh_count">Tasbeeh count: %1$s</string>
+    <string name="last_used_just_now">Just now</string>
+    <string name="last_used_today">Today %1$s</string>
+    <string name="last_used_never">Not used yet</string>
+    <string name="counter_total">Total count</string>
+    <string name="counter_today">Today count</string>
+    <string name="counter_tap_hint">Tap</string>
+    <string name="counter_tap_action">Count tasbeeh</string>
+    <string name="phase_progress">%1$s / %2$s</string>
+    <string name="zahra_phase_0">Subhan Allah</string>
+    <string name="zahra_phase_1">Alhamdulillah</string>
+    <string name="zahra_phase_2">Allahu Akbar</string>
+    <string name="open_menu">Open menu</string>
+    <string name="navigate_back">Back</string>
+    <string name="more_options">More options</string>
+    <string name="reset_count_title">Reset count</string>
+    <string name="reset_count_message">The total count and today count will be cleared. This cannot be undone.</string>
+    <string name="reset_zahra_message">Completed cycles and current progress will be cleared. This cannot be undone.</string>
+    <string name="delete_zikr_title">Delete zikr</string>
+    <string name="delete_zikr_message">This zikr and its count will be deleted permanently.</string>
+    <string name="delete_action">Delete</string>
+    <string name="edit_action">Edit</string>
+    <string name="zikr_subhan_allah" translatable="false">سبحان الله</string>
+    <string name="zikr_alhamdulillah" translatable="false">الحمد لله</string>
+    <string name="zikr_allahu_akbar" translatable="false">الله أكبر</string>
+    <string name="zikr_la_ilaha_illallah" translatable="false">لا إله إلا الله</string>
+    <string name="zikr_astaghfirullah" translatable="false">أستغفر الله</string>
+    <string name="zikr_salawat" translatable="false">اللهم صل على محمد وآل محمد</string>
+    <string name="zikr_zahra" translatable="false">تسبيح الزهراء (عليها السلام)</string>
+    <string-array name="hijri_months">
+        <item>Muharram</item>
+        <item>Safar</item>
+        <item>Rabi al-Awwal</item>
+        <item>Rabi al-Thani</item>
+        <item>Jumada al-Awwal</item>
+        <item>Jumada al-Thani</item>
+        <item>Rajab</item>
+        <item>Sha\'ban</item>
+        <item>Ramadan</item>
+        <item>Shawwal</item>
+        <item>Dhu al-Qi\'dah</item>
+        <item>Dhu al-Hijjah</item>
+    </string-array>
+</resources>

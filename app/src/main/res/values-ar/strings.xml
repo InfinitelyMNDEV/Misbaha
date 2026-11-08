@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">المسبحة</string>
+    <string name="settings">الإعدادات</string>
+    <string name="system_settings">إعدادات النظام</string>
+    <string name="custom_settings">أذكار مخصصة</string>
+    <string name="theme">المظهر</string>
+    <string name="theme_light">فاتح</string>
+    <string name="theme_dark">داكن</string>
+    <string name="theme_system">النظام</string>
+    <string name="font_size">حجم الخط</string>
+    <string name="font_small">صغير</string>
+    <string name="font_default">افتراضي</string>
+    <string name="font_large">كبير</string>
+    <string name="font_extra_large">كبير جدًا</string>
+    <string name="language">اللغة</string>
+    <string name="language_arabic">العربية</string>
+    <string name="language_english">الإنجليزية</string>
+    <string name="add_zikr">إضافة ذكر</string>
+    <string name="edit_zikr">تعديل الذكر</string>
+    <string name="reset_count">إعادة تعيين العدد</string>
+    <string name="reset">إعادة التعيين</string>
+    <string name="cancel">إلغاء</string>
+    <string name="save">حفظ</string>
+    <string name="delete">حذف</string>
+    <string name="zikr_text_label">نص الذكر</string>
+    <string name="zikr_error_empty">أدخل نص الذكر.</string>
+    <string name="zikr_error_duplicate">هذا الذكر موجود بالفعل.</string>
+    <string name="custom_empty">لا توجد أذكار مخصصة بعد.</string>
+    <string name="tasbeeh_count">عدد التسبيح : %1$s</string>
+    <string name="last_used_just_now">منذ قليل</string>
+    <string name="last_used_today">اليوم %1$s</string>
+    <string name="last_used_never">لم يُستخدم بعد</string>
+    <string name="counter_total">العدد الكلي</string>
+    <string name="counter_today">عدد اليوم</string>
+    <string name="counter_tap_hint">اضغط</string>
+    <string name="counter_tap_action">احتساب التسبيح</string>
+    <string name="phase_progress">%1$s / %2$s</string>
+    <string name="zahra_phase_0">سبحان الله</string>
+    <string name="zahra_phase_1">الحمد لله</string>
+    <string name="zahra_phase_2">الله أكبر</string>
+    <string name="open_menu">فتح القائمة</string>
+    <string name="navigate_back">رجوع</string>
+    <string name="more_options">خيارات إضافية</string>
+    <string name="reset_count_title">إعادة تعيين العدد</string>
+    <string name="reset_count_message">سيُصفَّر العدد الكلي وعدد اليوم. لا يمكن التراجع.</string>
+    <string name="reset_zahra_message">سيُصفَّر عدد الدورات المكتملة والتقدم الحالي. لا يمكن التراجع.</string>
+    <string name="delete_zikr_title">حذف الذكر</string>
+    <string name="delete_zikr_message">سيُحذف هذا الذكر وعدّاده نهائيًا.</string>
+    <string name="delete_action">حذف</string>
+    <string name="edit_action">تعديل</string>
+    <string-array name="hijri_months">
+        <item>محرم</item>
+        <item>صفر</item>
+        <item>ربيع الأول</item>
+        <item>ربيع الآخر</item>
+        <item>جمادى الأولى</item>
+        <item>جمادى الآخرة</item>
+        <item>رجب</item>
+        <item>شعبان</item>
+        <item>رمضان</item>
+        <item>شوال</item>
+        <item>ذو القعدة</item>
+        <item>ذو الحجة</item>
+    </string-array>
+</resources>
