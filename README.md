@@ -95,7 +95,7 @@ The project uses Gradle 9.6.0 through the included wrapper, so you do not need a
 1. Clone the repository (or download and extract the ZIP):
 
    ```bash
-   git clone https://github.com/<your-username>/Misbaha.git
+   git clone https://github.com/InfinitelyMNDEV/Misbaha.git
    ```
 
 2. Open Android Studio and choose **File → Open**, then select the project root.
